@@ -1,0 +1,11 @@
+{
+  "packages": [
+    {
+      "name": "com.justtrisie.schoolTool",
+      "version": "0.0.1",
+      "description": "a handy tool for school stuff.",
+      "downloadUrl": "https://trisiegt.github.io/cdn/schoolTool.zip"
+      
+    }
+  ]
+}
