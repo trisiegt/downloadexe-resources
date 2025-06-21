@@ -9,7 +9,7 @@
     },
 
     {
-      "name": "com.justtrisie.schoolTool",
+      "name": "com.justtrisie.download.exe",
       "version": "0.0.1",
       "description": "a similar program to winget, but made to my standards. god i love vb.net!",
       "downloadUrl": "https://trisiegt.github.io/cdn/download.exe.zip"
