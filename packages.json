@@ -3,9 +3,16 @@
     {
       "name": "com.justtrisie.schoolTool",
       "version": "0.0.1",
-      "description": "a handy tool for school stuff.",
+      "description": "a way to access hidden drives and try to run programs unblocked on school computers.",
       "downloadUrl": "https://trisiegt.github.io/cdn/schoolTool.zip"
       
+    },
+
+    {
+      "name": "com.justtrisie.schoolTool",
+      "version": "0.0.1",
+      "description": "a similar program to winget, but made to my standards. god i love vb.net!",
+      "downloadUrl": "https://trisiegt.github.io/cdn/download.exe.zip"
     }
   ]
 }
